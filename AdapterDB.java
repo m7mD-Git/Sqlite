@@ -51,7 +51,6 @@ public class AdapterDB extends SQLiteOpenHelper {
     }
     /////////////////////////
 
-    //---opens the database---
 
     //---closes the database---
     public void close()
